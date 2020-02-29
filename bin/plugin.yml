@@ -1,0 +1,5 @@
+name: SavEssentials
+version: 1.0.1
+description: Essenciais do servidor
+author: Savitar 
+main: br.victor.savessentials.Main
